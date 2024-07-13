@@ -1,0 +1,1 @@
+Esto es un archivo estático de prueba para acceder desde el middleware static de ExpressJS
